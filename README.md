@@ -97,15 +97,8 @@ npm run build
 ## 🧪 Nếu sử dụng JSON-Server (tùy chọn)
 
 ```bash
-npx json-server --watch db.json --port 4000
+npx json-server --watch db.json --port 3002
 ```
-
----
-
-## 📌 Yêu cầu hệ thống
-
-* **Node.js ≥ 16**
-* **NPM ≥ 8**
 
 ---
 
@@ -124,4 +117,5 @@ Dự án thuộc sở hữu của **Lê Quang Tuyến**.
 Bạn có thể tự do tham khảo, chỉnh sửa và cải tiến theo nhu cầu cá nhân.
 
 ---
+
 
