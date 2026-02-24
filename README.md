@@ -109,10 +109,12 @@ npx json-server --watch db.json --port 4000
 
 ---
 
-## 🔗 Liên kết dự án
+## 👤 Tài khoản demo
 
-GitHub Repository:
-➡ **[https://github.com/lequangtuyen543/project-final-6-v1](https://github.com/lequangtuyen543/project-final-6-v1)**
+```txt
+Email: tuyen@gmail.com
+Password: 1
+```
 
 ---
 
@@ -122,3 +124,4 @@ Dự án thuộc sở hữu của **Lê Quang Tuyến**.
 Bạn có thể tự do tham khảo, chỉnh sửa và cải tiến theo nhu cầu cá nhân.
 
 ---
+
